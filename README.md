@@ -28,7 +28,7 @@
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
 
 ## Education
-- Associates, Architectural Technologies | Forsyth Technical Community College (_May 2019_)								       		
+- A.A.S., Architectural Technology | Forsyth Technical Community College (_May 2019_)								       		
 - Google Data Analytics Professional Certificate (_January 2024_)	 			        		
 
 ## Work Experience
