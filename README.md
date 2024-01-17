@@ -1,6 +1,6 @@
 ## Connect with Me
 
-[LinkedIn]({{ site.linkedin | absolute_url }}){:target="_blank"} | [GitHub]({{ site.github | absolute_url }}){:target="_blank"} | [Email](mailto:{{ site.email }}){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/nicholas-voris/){:target="_blank"} | [GitHub]({{ site.github | absolute_url }}){:target="_blank"} | [Email](mailto:{{ site.email }}){:target="_blank"}
 
 # Data Analyst
 
