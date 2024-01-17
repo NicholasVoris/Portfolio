@@ -13,6 +13,6 @@
 
 ## Projects
 ### Bellabeat Case Study
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.kaggle.com/code/nickvoris/bellabeat-case-study))
+[Publication](https://www.kaggle.com/code/nickvoris/bellabeat-case-study/notebook)
 
 Developed skills...
