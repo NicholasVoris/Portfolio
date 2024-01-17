@@ -1,3 +1,13 @@
+<!-- Navigation Bar -->
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+    <li><a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+    <!-- Add other navigation links as needed -->
+  </ul>
+</nav>
+
 <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 # Data Analyst
