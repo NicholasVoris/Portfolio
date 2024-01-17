@@ -1,3 +1,5 @@
+<div align="center">
+  <p style="font-size: 18px; font-weight: bold;">Connect with me:</p>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
 
 <div class="logos-container">
