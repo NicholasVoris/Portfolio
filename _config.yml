@@ -1,6 +1,6 @@
 title: Nicholas Voris
 #logo: /assets/img/headshot_circle.png
-#description: [LinkedIN](https://www.linkedin.com/in/nicholas-voris/)
+description: <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
 social:
