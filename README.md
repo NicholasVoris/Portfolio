@@ -1,3 +1,5 @@
+
+
 <div class="logos-container">
   <a href="https://www.linkedin.com/in/nicholas-voris/" class="logo-link" target="_blank">
     <div class="logo-content">
@@ -20,6 +22,7 @@
     </div>
   </a>
 </div>
+
 
 # Data Analyst
 
