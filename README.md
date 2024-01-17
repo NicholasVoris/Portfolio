@@ -6,6 +6,8 @@
 
 [LinkedIn]({{ site.linkedin }}){:target="_blank"} | [GitHub]({{ site.github }}){:target="_blank"} | [Email](mailto:{{ site.email }}){:target="_blank"}
 
+[LinkedIn]({{ site.linkedin | absolute_url }}){:target="_blank"} | [GitHub]({{ site.github | absolute_url }}){:target="_blank"} | [Email](mailto:{{ site.email }}){:target="_blank"}
+
 # Data Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
