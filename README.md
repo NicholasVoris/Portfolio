@@ -1,4 +1,6 @@
 <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="mailto:{{ site.contact.email }}" target="_blank" rel="noopener noreferrer">Email</a>
+<a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 # Data Analyst
 
