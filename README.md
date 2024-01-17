@@ -2,8 +2,6 @@
 
 <a href="mailto:{{ site.contact.email }}" target="_blank" rel="noopener noreferrer">Email</a>
 
-<a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
-
 # Data Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
