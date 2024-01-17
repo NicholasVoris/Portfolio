@@ -1,3 +1,5 @@
+<a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
 # Data Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
