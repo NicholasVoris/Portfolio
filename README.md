@@ -17,7 +17,7 @@
   </a>
 </div>
 
-# Data Analyst
+# **Data Analyst**
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
 
