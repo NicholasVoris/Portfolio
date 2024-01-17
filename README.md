@@ -1,6 +1,17 @@
-## Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholas-voris/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp; &nbsp; <!-- Adjust spacing as needed -->
+  <a href="https://github.com/YourUsername/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="30" height="30"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/nicholas-voris/){:target="_blank"} | [GitHub]({{ site.github | absolute_url }}){:target="_blank"} | [Email](mailto:{{ site.email }}){:target="_blank"}
 
 # Data Analyst
 
