@@ -1,27 +1,21 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/nicholas-voris/" target="_blank" style="margin-right: 20px;">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
-      <span style="margin-top: 5px;">LinkedIn</span>
-    </div>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+
+<div class="logos-container">
+  <a href="https://www.linkedin.com/in/nicholas-voris/" class="logo-link" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <span class="logo-text">LinkedIn</span>
   </a>
-  
-  <a href="https://github.com/NicholasVoris/" target="_blank" style="margin-right: 20px;">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-      <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="30" height="30"/>
-      <span style="margin-top: 5px;">GitHub</span>
-    </div>
+
+  <a href="https://github.com/NicholasVoris/" class="logo-link" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub"/>
+    <span class="logo-text">GitHub</span>
   </a>
-  
-  <a href="mailto:nicholasgvoris@gmail.com" target="_blank">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
-      <span style="margin-top: 5px;">Email</span>
-    </div>
+
+  <a href="mailto:nicholasgvoris@gmail.com" class="logo-link" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+    <span class="logo-text">Email</span>
   </a>
 </div>
-
-
 
 # Data Analyst
 
