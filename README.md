@@ -1,20 +1,25 @@
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/nicholas-voris/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
-    LinkedIn
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+      <span style="margin-top: 5px;">LinkedIn</span>
+    </div>
   </a>
   &nbsp; &nbsp; <!-- Adjust spacing as needed -->
   <a href="https://github.com/NicholasVoris/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="30" height="30"/>
-    GitHub
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="30" height="30"/>
+      <span style="margin-top: 5px;">GitHub</span>
+    </div>
   </a>
   &nbsp; &nbsp;
   <a href="mailto:nicholasgvoris@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
-    Email
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
+      <span style="margin-top: 5px;">Email</span>
+    </div>
   </a>
-</p>
-
+</div>
 
 
 # Data Analyst
