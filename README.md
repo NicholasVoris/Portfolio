@@ -1,3 +1,5 @@
+## Connect with me:
+
 <div class="logos-container">
   <a href="https://www.linkedin.com/in/nicholas-voris/" class="logo-link" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
