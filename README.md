@@ -1,6 +1,6 @@
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/nicholas-voris)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas-voris-blue)](https://www.linkedin.com/in/nicholas-voris/)
 - [GitHub](https://github.com/NicholasVoris)
 - [Email](mailto:nicholasgvoris@gmail.com)
 
