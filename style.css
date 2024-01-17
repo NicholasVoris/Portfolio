@@ -1,11 +1,9 @@
 .logos-container {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 20px 0;
+  justify-content: space-around; /* Adjust as needed */
 }
 
-.logo-link {
+.logo-content {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,11 +11,7 @@
   color: black; /* Adjust text color as needed */
 }
 
-.logo-link img {
-  width: 30px;
-  height: 30px;
-}
-
 .logo-text {
   margin-top: 5px;
+  text-align: center; /* Center the text */
 }
