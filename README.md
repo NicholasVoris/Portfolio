@@ -1,3 +1,9 @@
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/nicholas-voris)
+- [GitHub](https://github.com/NicholasVoris)
+- [Email](mailto:nicholasgvoris@gmail.com)
+
 # Data Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
