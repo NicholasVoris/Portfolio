@@ -1,4 +1,4 @@
-# Data Analyist
+# Data Analyst
 
 This portfolio is a collection of projects that reflect my interests and growth as a data analyst as well as my case study from my Google Data Analytics Professional Certificate.
 
