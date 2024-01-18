@@ -15,3 +15,10 @@
   margin-top: 5px;
   text-align: center; /* Center the text */
 }
+
+/* styles.css or a similar stylesheet file */
+
+.logo {
+  max-width: 100px; /* Adjust the size as needed */
+  height: auto;
+}
