@@ -1,8 +1,10 @@
 # Data Analyist
 
+This portfolio is a collection of projects that reflect my interests and growth as a data analyst as well as my case study from my certificate course.
+
 ## About me
 
-In my free time I like to modify my car and take it to car meets, try to break 100 in golf...one day, and explore North Carolina with my girl friend.
+In my free time I like to take my car to car meets, try to break 100 in golf...one day, and explore North Carolina with my girl friend.
 
 #### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
 
