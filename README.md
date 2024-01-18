@@ -1,12 +1,10 @@
 # Data Analyist
 
-This portfolio is a collection of projects that reflect my interests and growth as a data analyst as well as my case study from my certificate course.
+This portfolio is a collection of projects that reflect my interests and growth as a data analyst as well as my case study from my Google Data Analytics Professional Certificate.
 
 ## About me
 
-In my free time I like to take my car to car meets, try to break 100 in golf...one day, and explore North Carolina with my girl friend.
-
-#### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
+In my free time I like to take my car to car meets, try to break 100 in golf...one day, and explore North Carolina with my girlfriend.
 
 ## Projects
 ### Bellabeat Case Study
