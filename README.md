@@ -1,3 +1,19 @@
+# Data Analyist
+
+## About me
+
+In my free time I like to modify my car and take it to car meets, try to break 100 in golf...one day, and explore North Carolina with my girl friend.
+
+#### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
+
+## Projects
+### Bellabeat Case Study
+[Publication](https://www.kaggle.com/code/nickvoris/bellabeat-case-study/notebook)
+
+Developed skills...
+
+## Contact me
+
 <div style="display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/nicholas-voris/" target="_blank">
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -20,24 +36,3 @@
     </div>
   </a>
 </div>
-
-
-
-# Data Analyst
-
-#### Technical Skills: Python, SQL, R, Tableau, Excel, Google Spreadsheets
-
-## Education
-- A.A.S., Architectural Technology | Forsyth Technical Community College (_May 2019_)
-- Google Data Analytics Professional Certificate (_January 2024_)
-
-## Work Experience
-**Structural Engineer Techincian II (_September 2019 - Present_)**
-- 
-- 
-
-## Projects
-### Bellabeat Case Study
-[Publication](https://www.kaggle.com/code/nickvoris/bellabeat-case-study/notebook)
-
-Developed skills...
