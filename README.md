@@ -7,10 +7,13 @@ This portfolio is a collection of projects that reflect my interests and growth 
 In my free time I like to take my car to car meets, try to break 100 in golf...one day, and explore North Carolina with my girlfriend.
 
 ## Projects
-### Bellabeat Case Study (Certificate capstone project)
-[Publication](https://www.kaggle.com/code/nickvoris/bellabeat-case-study/notebook)
+### 1. Bellabeat Case Study
+
+**Summary:**
 
 In this case study, the role of a Junior Data Analyst is taken on with the goal to provide helpful insight to Bellabeat, a tech-driven wellness company, to improve their marketing strategy. This analysis is specifically for the Leaf, a device in direct competition to the Fitbit. To unlock new gowth opportunities for Bellabeat, a comprehensive analysis of the "FitBit Fitness Tracker Data" dataset is observed. The analysis revealed positive relationships emphasizing the importance of user engagement. This resulted in recommendations that aim to enhance user experience, promote consistency, and foster a deeper connection between users and Bellabeat's wellness technology products.
+
+[Publication](https://www.kaggle.com/code/nickvoris/bellabeat-case-study/notebook)
 
 ## Contact me
 
@@ -32,7 +35,7 @@ In this case study, the role of a Junior Data Analyst is taken on with the goal 
   <a href="mailto:nicholasgvoris@gmail.com" target="_blank">
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
-      <span style="margin-top: 5px; text-align: center;">Email</span>
+      <span style="margin-top: 5px; text-align: center;">nicholasgvoris@gmail.com</span>
     </div>
   </a>
 </div>
