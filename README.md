@@ -4,7 +4,7 @@ This portfolio is a collection of projects that reflect my interests and growth 
 
 ## About me
 
-In my free time I enjoy taking my car to car events, attempting to break 100 in golf, and exploring North Carolina with my girlfriend.
+In my free time I enjoy taking my car to car events, attempting to break 100 in golf, and explore North Carolina.
 
 ## Projects
 ### Bellabeat Case Study
